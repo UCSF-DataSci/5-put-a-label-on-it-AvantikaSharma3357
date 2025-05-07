@@ -1,2 +1,4 @@
-Random Forest AUC: 0.9757
-XGBoost AUC: 0.9965
+{
+    "Random Forest AUC": 0.9757,
+    "XGBoost AUC": 0.9965
+}
