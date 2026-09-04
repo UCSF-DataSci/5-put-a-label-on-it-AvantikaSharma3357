@@ -1,4 +1,4 @@
-# Assignment 5: Health Data Classification
+# Health Data Classification
 
 ## Objectives
 
